@@ -6,6 +6,7 @@
   "require": {
     "drupal/drupal": "7.*",
     "drupal/features": "7.*",
+    "drupal/strongarm": "7.*",
     "drupal/views": "7.*",
     "drupal/strongarm": "7.*"
   },
