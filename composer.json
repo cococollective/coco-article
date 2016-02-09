@@ -25,8 +25,6 @@
     "drupal/inline_entity_form": "7.*",
     "drupal/picture": "7.*"
   },
-  "minimum-stability": "dev",
-  "prefer-stable": true,
   "extra": {
     "branch-alias": {
       "dev-7.x-0.x": "7.0.x-dev"
