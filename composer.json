@@ -13,8 +13,8 @@
   ],
   "require": {
     "composer/installers": "~1.0",
-    "drupal/drupal": "7.*"
-    "drupal/entityreference": "7.*",
+    "drupal/drupal": "7.*",
+    "drupal/entityreference": "7.*"
   },
   "suggest": {
     "cococollective/coco-link": "7.*",
